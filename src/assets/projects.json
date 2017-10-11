@@ -2,24 +2,129 @@
     "project1": [
         {
             "team": "Team #0",
-            "members": ["name1","name2","name3","name4"],
-            "project_name": "Game 1",
-            "project_description": "A good gameaskdjfjdhskdjhfksjdhdfkjsdhdkjfhskdjfhksjdhf\nasdkjflksdjlfkjsdlkfjlsdkjflksdjflskjdlf lsdkfjlsdkj sdlkfjlskdj sdkljflskdjf sdfkslfkjd",
-            "project_url": "http://cisc474.cis.udel.edu/kdksklk/dsdsdf.html"
+            "members": [
+                "Zach Shapiro",
+                "Vincent Nguyen",
+                "Xiaomeng Chen",
+                "Zhanglong Peng",
+                "Qichao Hong"
+            ],
+            "project_name": "Brick Breaker",
+            "project_description": "An implementation of the old brick breaker game, using HTML and canvas.",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team0/final.html"
+        },
+        {
+            "team": "Team #1",
+            "members": [
+                "Jacson Jorss",
+                "Sam Paleen",
+                "Will Rembish",
+                "Rob Hannah",
+                "Tyler Sastire"
+            ],
+            "project_name": "Space-ish Invaders",
+            "project_description": "A space invader type video game using HTML and canvas",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team1"
         },
         {
             "team": "Team #2",
-            "members": ["name1","name2","name3","name4"],
-            "project_name": "Game 2",
-            "project_description": "A good game",
-            "project_url": "http://game1.com"
+            "members": [
+                "Matt Urban",
+                "Mortaza Rasulzada",
+                "James Heisler",
+                "John Townsend",
+                "Jordan Michaels"
+            ],
+            "project_name": "Tower Defence",
+            "project_description": "A tower defence game in pure html/css",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team2"
         },
         {
             "team": "Team #3",
-            "members": ["name1","name2","name3","name4"],
-            "project_name": "Game 3",
-            "project_description": "A good game",
-            "project_url": "http://game1.com"
+            "members": [
+                "Tom Cardy",
+                "Jacob McConomy",
+                "Billy Sorg",
+                "Chelsea Nachamie",
+                "Francis Field"                
+            ],
+            "project_name": "Runner",
+            "project_description": "A platformer game",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team3"
+        },
+        {
+            "team": "Team #4",
+            "members": [
+                "Ryan Gray",
+                "Daniel Cortes",
+                "Russel Leong",
+                "Justin Said",
+                "Andrew Regic"
+],
+            "project_name": "TANKS",
+            "project_description": "A tank game in pure html/css",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team4"
+        },
+        {
+            "team": "Team #5",
+            "members": [
+                "CJ Moores",
+                "Naveen Paramesh", 
+                "Pat Houston",
+                "Joe Mancini"
+            ],
+            "project_name": "Lumberjack",
+            "project_description": "A lumberjack chopping game in pure html/css",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team5"
+        },
+        {
+            "team": "Team #6",
+            "members": [
+                "Michelle Palmieri",
+                "Jimmy Martini",
+                "Hunter Hedinger",
+                "David Geron-Neubauer"
+            ],
+            "project_name": "Dicey Ice Cream",
+            "project_description": "An html shooting game",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team6"
+        },
+        {
+            "team": "Team #7",
+            "members": [
+                "Sean Whiteman",
+                "John Tejeda",
+                "Hayley Andrews",
+                "Christopher Reinhardt"
+                
+            ],
+            "project_name": "Space pizza",
+            "project_description": "A space based html pizza making game",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team7"
+        },
+        {
+            "team": "Team #8",
+            "members": [
+                "Wenyi Yin",
+                "Lan Chen",
+                "Esme Li",
+                "Estella Aviles"
+            ],
+            "project_name": "Memory Game",
+            "project_description": "An html memory game",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team8"
+        },
+        {
+            "team": "Team #9",
+            "members": [
+                "Marco Arcilla",
+                "Dan Liang",
+                "Richard Gantt",
+                "Jeanine Najjar"
+            ],
+            "project_name": "Sombrero",
+            "project_description": "This game simply defies description",
+            "project_url": "http://cisc474.cis.udel.edu/project1/team9"
         }
     ],
     "project2":[
