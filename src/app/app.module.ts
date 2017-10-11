@@ -10,6 +10,7 @@ import { Project1Component } from './pages/project1/project1.component';
 import { Project2Component } from './pages/project2/project2.component';
 import { Project3Component } from './pages/project3/project3.component';
 import { ProjectComponent } from './components/project/project.component';
+import { ExamplesComponent } from './pages/examples/examples.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { ProjectComponent } from './components/project/project.component';
     Project2Component,
     Project3Component,
     ProjectComponent,
+    ExamplesComponent,
   ],
   imports: [
     BrowserModule,
