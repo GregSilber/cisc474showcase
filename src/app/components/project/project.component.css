@@ -1,6 +1,7 @@
 
 
 .link:hover{
-    background-color:cornflowerblue;
+    background-color:#2fa4e7;
     cursor: pointer;
+    color:white;
 }

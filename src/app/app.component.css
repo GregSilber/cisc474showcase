@@ -1,3 +1,12 @@
 .jumbotron{
+    margin-top:0;
     margin-bottom:0;
+    background-color:#2fa4e7;
+    color:white;
+    padding:1em 1em 1em 1em;
+    border-bottom:1px solid white;
+}
+.subtitle{
+    color:white;
+    text-shadow: 1px 1px rgb(0,0,0);
 }
