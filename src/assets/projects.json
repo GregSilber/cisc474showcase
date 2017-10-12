@@ -24,7 +24,7 @@
             ],
             "project_name": "Space-ish Invaders",
             "project_description": "A space invader type video game using HTML and canvas",
-            "project_url": "http://cisc474.cis.udel.edu/project1/team1"
+            "project_url": ""
         },
         {
             "team": "Team #2",
@@ -37,7 +37,7 @@
             ],
             "project_name": "Tower Defence",
             "project_description": "A tower defence game in pure html/css",
-            "project_url": "http://cisc474.cis.udel.edu/project1/team2"
+            "project_url": ""
         },
         {
             "team": "Team #3",
@@ -48,9 +48,9 @@
                 "Chelsea Nachamie",
                 "Francis Field"                
             ],
-            "project_name": "Runner",
+            "project_name": "Ninja Runner",
             "project_description": "A platformer game",
-            "project_url": "http://cisc474.cis.udel.edu/project1/team3"
+            "project_url": "http://cisc474.cis.udel.edu/project1/team3/ninjarunner.html"
         },
         {
             "team": "Team #4",
@@ -63,7 +63,7 @@
 ],
             "project_name": "TANKS",
             "project_description": "A tank game in pure html/css",
-            "project_url": "http://cisc474.cis.udel.edu/project1/team4"
+            "project_url": "http://cisc474.cis.udel.edu/project1/team4/tankz.html"
         },
         {
             "team": "Team #5",
@@ -73,7 +73,7 @@
                 "Pat Houston",
                 "Joe Mancini"
             ],
-            "project_name": "Lumberjack",
+            "project_name": "Timber",
             "project_description": "A lumberjack chopping game in pure html/css",
             "project_url": "http://cisc474.cis.udel.edu/project1/team5"
         },
@@ -87,7 +87,7 @@
             ],
             "project_name": "Dicey Ice Cream",
             "project_description": "An html shooting game",
-            "project_url": "http://cisc474.cis.udel.edu/project1/team6"
+            "project_url": ""
         },
         {
             "team": "Team #7",
@@ -100,7 +100,7 @@
             ],
             "project_name": "Space pizza",
             "project_description": "A space based html pizza making game",
-            "project_url": "http://cisc474.cis.udel.edu/project1/team7"
+            "project_url": "http://cisc474.cis.udel.edu/project1/team7/PizzaGame/game.html"
         },
         {
             "team": "Team #8",
@@ -112,7 +112,7 @@
             ],
             "project_name": "Memory Game",
             "project_description": "An html memory game",
-            "project_url": "http://cisc474.cis.udel.edu/project1/team8"
+            "project_url": ""
         },
         {
             "team": "Team #9",
@@ -124,7 +124,7 @@
             ],
             "project_name": "Sombrero",
             "project_description": "This game simply defies description",
-            "project_url": "http://cisc474.cis.udel.edu/project1/team9"
+            "project_url": ""
         }
     ],
     "project2":[

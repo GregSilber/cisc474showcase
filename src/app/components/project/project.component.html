@@ -11,7 +11,7 @@
       </tr>
     </thead>
     <tbody>
-    <tr (click)='goUrl(project.project_url)' class='row' 
+    <tr (click)='goUrl(project.project_url)' class='row' [ngClass]="{link: project.project_url.length>0}"
       *ngFor='let project of projects;let i=index' [title]=project.project_description>
       <td>{{project.team}}</td>
       <td><div *ngFor='let member of project.members'>{{member}}</div></td>

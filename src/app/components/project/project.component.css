@@ -1,6 +1,6 @@
 
 
-.table tbody tr:hover{
+.link:hover{
     background-color:cornflowerblue;
     cursor: pointer;
 }

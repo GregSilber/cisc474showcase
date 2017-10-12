@@ -18,5 +18,9 @@ export class ProjectComponent implements OnInit {
     );
   }
 
-  goUrl = url => window.open(url, '_blank');
+  goUrl = url => {
+    if (url.length > 0) {
+      window.open(url, '_blank');
+    }
+  }
 }
